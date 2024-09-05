@@ -190,6 +190,7 @@
     font-size: 40px;
     font-weight: 700;
     line-height: 47px;
+    text-transform: uppercase;
 }
 
 .lots__card-list{
